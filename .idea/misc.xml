@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-mdpi/text_background.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/drawable/buttom_gbg.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/drawable/edittext_background.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/drawable/ic_baseline_date_range_24.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.21510416666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_current_pay_week.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_done_job.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/fragment_previous_pay_week.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/fragment_submit.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_submitted.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/fragment_time_sheet.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.1984375" />
+        <entry key="app/src/main/res/menu/main_draewer.xml" value="0.19895833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
