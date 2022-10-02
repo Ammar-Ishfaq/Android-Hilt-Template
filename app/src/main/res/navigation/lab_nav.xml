@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.codecoy.labourconnect.fragments.SplashFragment"
+        android:name="com.pkgname.appname.fragments.SplashFragment"
         android:label="fragment_splash"
         tools:layout="@layout/fragment_splash" >
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.codecoy.labourconnect.fragments.HomeFragment"
+        android:name="com.pkgname.appname.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -40,7 +40,7 @@
     </fragment>
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.codecoy.labourconnect.fragments.loginFragment.LoginFragment"
+        android:name="com.pkgname.appname.fragments.loginFragment.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
@@ -52,11 +52,11 @@
     </fragment>
     <fragment
         android:id="@+id/hilt_ProfileFragment"
-        android:name="com.codecoy.labourconnect.fragments.profileFragment.ProfileFragment"
+        android:name="com.pkgname.appname.fragments.profileFragment.ProfileFragment"
         android:label="Hilt_ProfileFragment" />
     <fragment
         android:id="@+id/timeSheetFragment"
-        android:name="com.codecoy.labourconnect.fragments.TimeSheetFragment"
+        android:name="com.pkgname.appname.fragments.TimeSheetFragment"
         android:label="fragment_time_sheet"
         tools:layout="@layout/fragment_time_sheet" >
         <action
@@ -70,7 +70,7 @@
     </fragment>
     <fragment
         android:id="@+id/currentPayWeekFragment"
-        android:name="com.codecoy.labourconnect.fragments.currentPayWeekFregment.CurrentPayWeekFragment"
+        android:name="com.pkgname.appname.fragments.currentPayWeekFregment.CurrentPayWeekFragment"
         android:label="fragment_current_pay_week"
         tools:layout="@layout/fragment_current_pay_week" >
         <action
@@ -87,7 +87,7 @@
     </fragment>
     <fragment
         android:id="@+id/submitFragment"
-        android:name="com.codecoy.labourconnect.fragments.submitFragment.SubmitFragment"
+        android:name="com.pkgname.appname.fragments.submitFragment.SubmitFragment"
         android:label="fragment_submit"
         tools:layout="@layout/fragment_submit" >
         <action
@@ -102,12 +102,12 @@
     </fragment>
     <fragment
         android:id="@+id/submittedFragment"
-        android:name="com.codecoy.labourconnect.fragments.SubmittedFragment"
+        android:name="com.pkgname.appname.fragments.SubmittedFragment"
         android:label="fragment_submitted"
         tools:layout="@layout/fragment_submitted" />
     <fragment
         android:id="@+id/hilt_PreviousPayWeekFragment"
-        android:name="com.codecoy.labourconnect.fragments.previousPayWeekFragment.PreviousPayWeekFragment"
+        android:name="com.pkgname.appname.fragments.previousPayWeekFragment.PreviousPayWeekFragment"
         android:label="Hilt_PreviousPayWeekFragment" >
         <action
             android:id="@+id/action_hilt_PreviousPayWeekFragment_to_doneJobFragment"
@@ -119,7 +119,7 @@
     </fragment>
     <fragment
         android:id="@+id/doneJobFragment"
-        android:name="com.codecoy.labourconnect.fragments.doneJobFragment.DoneJobFragment"
+        android:name="com.pkgname.appname.fragments.doneJobFragment.DoneJobFragment"
         android:label="fragment_done_job"
         tools:layout="@layout/fragment_done_job" />
 </navigation>
