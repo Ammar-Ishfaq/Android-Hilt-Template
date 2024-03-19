@@ -23,18 +23,10 @@ class HomeFragment : Fragment() {
 
         val activity = activity as MainActivity
 
-        activity.title.text = "DashBoard"
-
-        onClick()
 
 
         return view
     }
 
-    private fun onClick() {
-        binding.timeSheet.setOnClickListener {
-            this.findNavController().navigate(R.id.action_homeFragment_to_timeSheetFragment)
-        }
-    }
 
 }

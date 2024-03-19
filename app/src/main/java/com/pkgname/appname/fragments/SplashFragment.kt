@@ -25,9 +25,9 @@ class SplashFragment : Fragment() {
         lifecycleScope.launch {
             delay(1000)
             if (SharePrefrenceHelper.getInstance(requireContext()).isUserLoggedIn()){
-                findNavController().navigate(R.id.action_splashFragment_to_homeFragment)
+//                findNavController().navigate(R.id.action_splashFragment_to_homeFragment)
             }else{
-                findNavController().navigate(R.id.action_splashFragment_to_loginFragment)
+//                findNavController().navigate(R.id.action_splashFragment_to_loginFragment)
             }
         }
 

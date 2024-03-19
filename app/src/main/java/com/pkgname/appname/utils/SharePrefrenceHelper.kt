@@ -13,7 +13,7 @@ class SharePrefrenceHelper private constructor(private val sharedPreferences: Sh
     companion object {
 
         private const val USER_SHARED_PREFERENCE =
-            "skipshare_preferences"
+            "appname_preferences"
         private const val PHONE_AUTH = "phone_authentication"
         private const val PHONE_NUMBER = "phone_number"
         private const val LOGIN_DATA = "SharedPreferenceHelper_login_data"
